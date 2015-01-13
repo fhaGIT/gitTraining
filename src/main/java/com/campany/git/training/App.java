@@ -1,4 +1,4 @@
-package com.workshop.workshop;
+package com.campany.git.training;
 
 import java.io.IOException;
 
