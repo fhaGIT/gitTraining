@@ -13,6 +13,7 @@ public class App {
         System.out.println("Free Palestine");
         System.out.println("Hi !");
         System.out.println("Hi ! It my first change");
+        System.out.println("new master");
     }
 
 }
