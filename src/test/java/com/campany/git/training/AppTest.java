@@ -20,6 +20,10 @@ public class AppTest
         super( testName );
         System.out.println("hiiiiii");
         System.out.println("hiiiiii");
+        System.out.println("hiiiiii");
+        System.out.println("hiiiiii");
+        System.out.println("hiiiiii");
+        System.out.println("hiiiiii");
     }
 
     /**
@@ -27,6 +31,10 @@ public class AppTest
      */
     public static Test suite()
     {
+    	System.out.println("hello world");
+    	System.out.println("hello world");
+    	System.out.println("hello world");
+    	System.out.println("hello world");
     	System.out.println("hello world");
         return new TestSuite( AppTest.class );
     }
