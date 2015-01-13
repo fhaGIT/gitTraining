@@ -9,6 +9,7 @@ import java.io.IOException;
 public class App {
 
     public static void main(String... args) throws IOException {
+        System.out.println("Commit 1: before 'pull -- rebase'");
         System.out.println("Commit on new created branch");
         System.out.println("Hello Rebase");
         System.out.println("Hello All");
