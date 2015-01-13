@@ -42,6 +42,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	System.out.println("hello nooooooooooooooo");
         assertTrue( true );
     }
 }
